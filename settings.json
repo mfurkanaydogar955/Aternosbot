@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "shadowteam",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "shadowteam",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "VxShadowSmp.aternos.me",
+    "port": 33826,
     "version": "",
     "try-creative": false
   },
